@@ -5,4 +5,4 @@ Los elementos/funcionalidades  extra que tiene el proyecto son las siguientes:
 *Seleccion del tipo de moneda; como un extra a los requerimientos del proyecto, se le permite al usuario seleccionar entre 8 tipos de moneda diferente
 *Historial; 
 
-Se recomienda correr solo el archivo PrincipalConExtra, pues se modificaron algunos de los otros archivos para ser compatibles con esta version y podrian llegar a afectar a la version mas simple del codigo.
+Se recomienda correr solo el archivo "PrincipalConExtra" en lugar del archivo "Principal", pues se modificaron algunos de los otros archivos para ser compatibles con esta version y podrian llegar a afectar a la version mas simple del codigo.
