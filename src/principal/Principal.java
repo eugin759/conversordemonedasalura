@@ -38,7 +38,7 @@ public class Principal {
 
 
                 var seleccion1 = darValor.obtenerRespuesta(Integer.valueOf(scanner.nextLine()));
-                if (seleccion1 == "Salir") {
+                if (seleccion1 == "Salir" || seleccion1 == "historial") {
                     break;
                 }else {
 
